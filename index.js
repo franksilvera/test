@@ -1,0 +1,11 @@
+
+setTimeout(function () { console.log("efren") }, 1000)
+setTimeout(function () { console.log("efren") }, 2000)
+setTimeout(function () { console.log("efren") }, 3000)
+setTimeout(function () { console.log("efren") }, 4000)
+setTimeout(function () { console.log("efren") }, 5000)
+setTimeout(function () { console.log("efren") }, 6000)
+setTimeout(function () { console.log("efren") }, 7000)
+setTimeout(function () { console.log("efren") }, 8000)
+setTimeout(function () { console.log("efren") }, 9000)
+setTimeout(function () { console.log("efren") }, 10000)
